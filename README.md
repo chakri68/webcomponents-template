@@ -1,29 +1,27 @@
-# Vite, Lit and Storybook for standalone web component development
+# Vite, Lit and Storybook for standalone web component development starter pack
 
-This is an article from my blog
-
-https://leon.id/articles/web-components/2022-02-vite-lit-storybook
+Insipred by [this article](https://leon.id/articles/web-components/2022-02-vite-lit-storybook)
 
 ## Install
 
 ```bash
-npm install
+yarn
 ```
 
 ## Develop
 
 ```bash
-npm run dev
+yarn dev
 ```
 
 ## Storybook
 
 ```bash
-npm run storybook
+yarn storybook
 ```
 
 ## Build
 
 ```bash
-npm run build
+yarn build
 ```
